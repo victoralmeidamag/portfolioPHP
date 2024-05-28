@@ -189,34 +189,34 @@ img{
 }
 
 .color-1{
-background-color: hsl(252,35%,51%);
+background-color: #00FF00;
 }
 .color-2{
-background-color: hsl(351,85%,51%);
+background-color: #0000FF;
 }
 .color-3{
-background-color: hsl(271,76%,53%);
+background-color: #2E2B5F;
 }
 .color-4{
-background-color: hsl(225,73%,57%);
+background-color: #8B00FF;
 }
 .color-5{
-background-color: hsl(43,74%,49%);
+background-color: #FFFF00;
 }
 .color-6{
 background-color: hsl(339,81%,66%);
 }
 .color-7{
-background-color: hsl(80,61%,50%);
+background-color: #FF7F00;
 }
 .color-8{
-background-color: hsl(19,96%,52%);
+background-color: #FF0000;
 }
 .color-9{
-background-color: hsl(42,100%,51%);
+background-color: #00FFFF;
 }
 .color-10{
-background-color: hsl(88,65%,43%);
+background-color: #8B4513;
 }
 
 #color-1:checked ~ *{
