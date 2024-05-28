@@ -492,6 +492,10 @@ background-color: hsl(88,65%,43%);
     column-gap: 0.75rem;
 }
 
+.data__item a {
+    color: var(--text-color);
+}
+
 .date__title{
     font-size: var(--larger-font-size);
 }
